@@ -1,2 +1,2 @@
-import streamlite
-streamlite.tiltle('My Parents are helathy diner')
+import streamlit
+streamlit.title('my parents') 
