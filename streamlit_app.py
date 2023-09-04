@@ -1,2 +1,2 @@
-import streamlit
-streamlit.title('my parents') 
+nerimport streamlit
+streamlit.title('my parents are diner') 
